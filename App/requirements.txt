@@ -1,0 +1,4 @@
+numpy==1.26.3
+streamlit==1.36.0streamlit run main.py
+
+tensorflow==2.16.1
